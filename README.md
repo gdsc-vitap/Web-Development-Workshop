@@ -101,7 +101,7 @@ git commit -m "YOUR-COMMIT-MESSAGE"
 git push origin YOUR-BRANCH-NAME
 ``` 
 
-8.  Go to the [Web-Development-Workshop](gdsc-vitap/Web-Development-Workshop) on GitHub and create a new pull request. In the pull request, make sure to specify that you want to merge your branch into the main branch.
+8.  Go to the [Web-Development-Workshop](https://github.com/gdsc-vitap/Web-Development-Workshop) on GitHub and create a new pull request. In the pull request, make sure to specify that you want to merge your branch into the main branch.
     
 9.  Once your pull request has been reviewed and approved, your changes will be merged into the main branch.
     
