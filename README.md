@@ -1,7 +1,6 @@
 # GDSC VIT-AP Web Development Workshop Series
 
-![GDSC VIT-AP](https://user-images.githubusercontent.com/65449934/213941375-04ad72f5-988d-4a2f-9803-d0dd18d4d690.png)
-
+<img width="990" alt="logo" src="https://user-images.githubusercontent.com/65449934/213941375-04ad72f5-988d-4a2f-9803-d0dd18d4d690.png">
 
 🚀 Get ready to launch your web development career with our intensive web development fiesta, "Web Wizardry Unleashed: Code-ifying for Local Solutions"! <br> This 5-day long workshop series is designed to introduce you to the basics of web development, covering everything from the basics of HTML and CSS, to making your first interactive React webpage in just one week. 🔥 Join us for a hands-on experience that will take your coding skills to the next level. Enroll now and start building your own website from scratch! 
 
