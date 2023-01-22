@@ -72,7 +72,7 @@ If you would like to contribute code to the  Web-Development-Workshop, there are
 
 1.  First, make sure you have a [GitHub](https://github.com/) account. If you don't have one, you can create one for free.
     
-2.  Next, go to the [Web-Development-Workshop](https://github.com/Google-Developers-Student-Club-VIT-AP/Web-Development-Workshop) on GitHub and fork the repository by clicking on the "Fork" button in the upper right corner. This will create a copy of the repository under your own GitHub account.
+2.  Next, go to the [Web-Development-Workshop](https://github.com/gdsc-vitap/Web-Development-Workshop) on GitHub and fork the repository by clicking on the "Fork" button in the upper right corner. This will create a copy of the repository under your own GitHub account.
     
 3.  Clone the repository to your local machine by running the following command in your terminal:
 
@@ -101,7 +101,7 @@ git commit -m "YOUR-COMMIT-MESSAGE"
 git push origin YOUR-BRANCH-NAME
 ``` 
 
-8.  Go to the [Web-Development-Workshop](Google-Developers-Student-Club-VIT-AP/Web-Development-Workshop) on GitHub and create a new pull request. In the pull request, make sure to specify that you want to merge your branch into the main branch.
+8.  Go to the [Web-Development-Workshop](gdsc-vitap/Web-Development-Workshop) on GitHub and create a new pull request. In the pull request, make sure to specify that you want to merge your branch into the main branch.
     
 9.  Once your pull request has been reviewed and approved, your changes will be merged into the main branch.
     
