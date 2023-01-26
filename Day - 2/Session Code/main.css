@@ -1,0 +1,29 @@
+/* div {
+  width: 600px;
+  height: 600px;
+  border: 1px black solid;
+}
+.text {
+  font-size: 64px;
+}
+
+#second_text {
+  color: red;
+}
+.red-box h2 {
+  color: yellow;
+} */
+
+.red-box {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.yellow-box {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
