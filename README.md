@@ -23,7 +23,7 @@ Don't miss the opportunity to take your skills to the next level and unleash you
 In this first day of our web wizardry adventure, we will dive into the basics of HTML and learn how to create a structured webpage using different HTML tags. You will learn how to create headings, paragraphs, lists, images, links, and more. By the end of the day, you will have a solid understanding of HTML and be able to create a basic webpage in just one day! Join us for a hands-on experience that will take your coding skills to the next level. 
 
 ### Web Wizardry Unleashed - Day 2: CSS
-[Coming Soon]()
+[Link](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-02/)
 
 Take your web development skills to the next level with our Bootcamp! On day 2, learn how to style and layout web pages with CSS, the language used to control the font, color, and spacing of text, and create beautiful layouts. Enroll now and start building professional and polished web pages that will stand out from the crowd!
 
