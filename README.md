@@ -18,34 +18,35 @@ Don't miss the opportunity to take your skills to the next level and unleash you
 
 ### Web Wizardry Unleashed - Day 1: HTML
 
-[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-01/)
-
 In this first day of our web wizardry adventure, we will dive into the basics of HTML and learn how to create a structured webpage using different HTML tags. You will learn how to create headings, paragraphs, lists, images, links, and more. By the end of the day, you will have a solid understanding of HTML and be able to create a basic webpage in just one day! Join us for a hands-on experience that will take your coding skills to the next level. 
 
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-01/)
+
 ### Web Wizardry Unleashed - Day 2: CSS
-[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-02/)
 
 Take your web development skills to the next level with our Bootcamp! On day 2, learn how to style and layout web pages with CSS, the language used to control the font, color, and spacing of text, and create beautiful layouts. Enroll now and start building professional and polished web pages that will stand out from the crowd!
+
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-02/)
 
 [Assignment Playbook](https://docs.google.com/document/d/1e_1Mfc5SjqAXh_E8EDRopr3tPdWr3x5gL6XooQGTIyI/edit?usp=sharing)
 
 ### Web Wizardry Unleashed - Day 3: JavaScript
 
-[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-03/)
-
 Day 3 is all about learning the power of JavaScript. Unlock the power of interactivity and dynamic functionality with our Workshop Series! Learn how to create interactive elements and dynamic content using JavaScript, the programming language used to add interactivity to web pages. Enroll now and start building web pages that are more engaging and interactive for users!
+
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-03/)
 
 ### Web Wizardry Unleashed - Day 4: React
 
-[Coming Soon]()
-
 On Day 4 of our web wizardry adventure, we will dive deeper into the concept of reactivity in React. You will learn how React's virtual DOM and state management system work together to create reactive web applications. You will learn how to use hooks and functional components to manage state and create dynamic effects. You will also learn how to use the useEffect hook to handle side-effects in your application. By the end of the day, you will understand the reactivity concept and be able to create a small project that demonstrates your newfound skills. Enroll now and start creating complex web applications with ease!
+
+[Coming Soon]()
 
 ### Web Wizardry Unleashed - Day 5: Code-ifying for Solutions - The Final Challenge
 
-[Coming Soon]()
-
 On the final day of our web wizardry adventure, we will put all our skills to the test by building a real-world web solution for a local problem. You will work in teams to identify a local problem that can be solved with a web application, and then use your HTML, CSS, JavaScript, and React skills to create a functional and visually appealing web application that addresses it. This will be an opportunity to showcase your new skills and make a meaningful impact in your local community. Throughout the day, you will receive guidance and feedback from experienced mentors to help you bring your project to fruition. By the end of the day, you will have created a web application that makes a real difference in your community and you will have the satisfaction of knowing you made a difference.
+
+[Coming Soon]()
 
 ## Prerequisites
 
