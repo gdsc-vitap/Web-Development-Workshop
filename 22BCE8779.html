@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Himanshu Kumar Sah</title>
+    <style>
+        head {
+            align-items: center;
+        }
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .form {
+            color: white;
+            border-color: purple;
+        }
+        .fade-in-image {
+            opacity: 50%;
+        }
+        .fade-in-image:hover {
+            opacity: 100%;
+            transition: opacity 1s;
+        }
+    </style>
+</head>
+<body>
+    <html>
+  <head>
+    <title>Day 1 Assignment</title>
+  </head>
+  <body>
+    <h1>Day 1 Assignment</h1>
+    <section>
+      <h2>Personal Information</h2>
+      <ul>
+        <li>Name: Himanshu Kumar Sah</li>
+        <li>Age: 18</li>
+        <li>Address: Burari, Delhi</li>
+        <li>Hobbies: Animation, Graphic Design, Photography, Gaming</li>
+      </ul>
+    </section>
+    <hr>
+    <section>
+      <h2>Favorite Books</h2>
+      <ul>
+        <li>The Subtle Art of Not Giving A F*ck</li>
+        <li>Ugly Love</li>
+        <li>Silent Patient</li>
+        <li>It Ends With Us</li>
+        <li>November 9th</li>
+      </ul>
+    </section>
+    <hr>
+    <section>
+        <h2>Favorite Movies</h2>
+        <ul>
+            <li>Avengers - End Game</li>
+            <li>Iron Man - All three movies</li>
+            <li>Get Out</li>
+        </ul>
+    </section>
+    <hr>
+    <section>
+        <div class="fade-in-image">
+            <img src="Himanshu.jpeg" onmouseover="this.style.border='2px'; this.style.width='250px';" onmouseout="this.style.border='none'; this.style.width='200px';">
+        </div>  
+    </section>
+    <br>
+    <section
+      <div class="form_box" style="border: 2px solid purple; border-radius: 10px; box-shadow: 10px 10px 10px purple; width: 50%; margin: 0 auto;padding: 10px;">
+        <form class="form">
+          <h2 style="text-align: center;">GDSC Registration Form</h2>
+          <label for="first-name">First Name:</label>
+          <input type="text" id="first-name" name="first-name" required>
+          <label for="last-name">Last Name:</label>
+          <input type="text" id="last-name" name="last-name" required>
+          <br><br>
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+          <label for="phone-number">Phone Number:</label>
+          <input type="tel" id="phone-number" name="phone-number" required>
+          <br><br>
+          <label for="dob">Date of Birth:</label>
+          <input type="date" id="dob" name="dob" required>
+          <br><br>
+          <label for="gender">Gender:</label>
+          <input type="radio" id="gender" name="gender" value="male" required> Male
+          <input type="radio" id="gender" name="gender" value="female" required> Female
+          <br><br>
+          <label for="country">Country:</label>
+          <select id="country" name="country" required>
+            <option value="">Select a country</option>
+            <option value="IND">India</option>
+            <option value="NEP">Nepal</option>
+            <option value="BAN">Bangladesh</option>
+          </select>
+          <label for="course">Course:</label>
+          <select id="course" name="course" required>
+            <option value="b.tech">B.Tech</option>
+            <option value="m.tech">M.Tech</option>
+            <option value="b.sc">B.Sc</option>
+            <option value="m.sc">M.Sc</option>
+          </select>
+          <br><br>
+          <label for="program">Program:</label>
+          <textarea id="program" name="program" required></textarea>
+          <br><br>
+          <label>Skills:</label>
+          <input type="checkbox" id="html" name="skills" value="html">
+          <label for="html">HTML</label>
+          <input type="checkbox" id="css" name="skills" value="css">
+          <label for="css">CSS</label>
+          <input type="checkbox" id="animation" name="skills" value="animation">
+          <label for="javascript">Animation</label>
+          <input type="checkbox" id="graphic design" name="skills" value="graphic design">
+          <label for="javascript">Graphic Design</label>
+          <br><br>
+          <label for="resume">Resume:</label>
+          <input type="file" id="resume" name="resume" required>
+          <br><br>
+          <input type="checkbox" id="terms" name="terms" value="accepted" required>
+          <label for="terms">I accept the terms and conditions</label>
+          <br><br>
+          <label for="suggestions">Suggestions:</label>
+          <textarea id="suggestions" name="suggestions"></textarea>
+          <br><br>
+          <input type="submit" value="Submit">
+          <input type="reset" value="Reset">
+          <br>
+        </form>
+      </div>
+</body>
+</html>
