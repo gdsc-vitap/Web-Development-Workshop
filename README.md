@@ -18,18 +18,20 @@ Don't miss the opportunity to take your skills to the next level and unleash you
 
 ### Web Wizardry Unleashed - Day 1: HTML
 
-[Link](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-01/)
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-01/)
 
 In this first day of our web wizardry adventure, we will dive into the basics of HTML and learn how to create a structured webpage using different HTML tags. You will learn how to create headings, paragraphs, lists, images, links, and more. By the end of the day, you will have a solid understanding of HTML and be able to create a basic webpage in just one day! Join us for a hands-on experience that will take your coding skills to the next level. 
 
 ### Web Wizardry Unleashed - Day 2: CSS
-[Link](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-02/)
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-02/)
 
 Take your web development skills to the next level with our Bootcamp! On day 2, learn how to style and layout web pages with CSS, the language used to control the font, color, and spacing of text, and create beautiful layouts. Enroll now and start building professional and polished web pages that will stand out from the crowd!
 
+[Assignment Playbook](https://docs.google.com/document/d/1e_1Mfc5SjqAXh_E8EDRopr3tPdWr3x5gL6XooQGTIyI/edit?usp=sharing)
+
 ### Web Wizardry Unleashed - Day 3: JavaScript
 
-[Coming Soon]()
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-03/)
 
 Day 3 is all about learning the power of JavaScript. Unlock the power of interactivity and dynamic functionality with our Workshop Series! Learn how to create interactive elements and dynamic content using JavaScript, the programming language used to add interactivity to web pages. Enroll now and start building web pages that are more engaging and interactive for users!
 
