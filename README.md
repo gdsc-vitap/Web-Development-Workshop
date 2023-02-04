@@ -10,7 +10,7 @@ This 5-day long workshop series is designed to introduce you to the basics of we
 | 1 | Web Wizardry 101 | Jan 23, 3 - 5 PM | G03 + G04 AB1, VIT-AP University | Creating the Perfect HTML Spell 📄 |
 | 2 | CSS Magic | Jan 26, 3 - 5 PM | G03 + G04 AB1, VIT-AP University | Adding Style to Your Website 🎨 |
 | 3 | JavaScript Wizardry | Jan 30, 3 - 5 PM | G03 + G04 AB1, VIT-AP University | Making Your Website Come Alive 🔥 |
-| 4 | React Mastery | Feb 4, 4 - 6 PM | G03 + G04, VIT-AP University | Crafting Reusable Components 🛠 |
+| 4 | Hooking into React | Feb 4, 4 - 6 PM | G03 + G04, VIT-AP University | Crafting Reusable Components 🛠 |
 | 5 | Code-ifying for Solutions | Coming Soon | G03 + G04, VIT-AP University | The Final Challenge |
 
 
