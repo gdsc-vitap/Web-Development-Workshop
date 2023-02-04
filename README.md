@@ -18,11 +18,15 @@ This 5-day long workshop series is designed to introduce you to the basics of we
 
 ### :dart: Web Wizardry Unleashed - Day 1: HTML
 
+![Copy of Copy of Copy of Google Developer Student Clubs  Chapter _ Specific Event Promo - Red-3](https://user-images.githubusercontent.com/65449934/216760558-1486441b-220d-434f-a2f9-ab8dc4d16824.png)
+
 In this first day of our web wizardry adventure, we will dive into the basics of HTML and learn how to create a structured webpage using different HTML tags. You will learn how to create headings, paragraphs, lists, images, links, and more. By the end of the day, you will have a solid understanding of HTML and be able to create a basic webpage in just one day! Join us for a hands-on experience that will take your coding skills to the next level. 
 
 [RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-01/)
 
 ### :dart: Web Wizardry Unleashed - Day 2: CSS
+
+
 
 Take your web development skills to the next level with our Bootcamp! On day 2, learn how to style and layout web pages with CSS, the language used to control the font, color, and spacing of text, and create beautiful layouts. Enroll now and start building professional and polished web pages that will stand out from the crowd!
 
@@ -30,12 +34,15 @@ Take your web development skills to the next level with our Bootcamp! On day 2, 
 
 ### :dart: Web Wizardry Unleashed - Day 3: JavaScript
 
+![Copy of Copy of Google Developer Student Clubs  Chapter _ Specific Event Promo - Yellow-4](https://user-images.githubusercontent.com/65449934/216760435-68035a2c-b4ef-48cd-9f05-6d1fb3a7debc.png)
+
 Day 3 is all about learning the power of JavaScript. Unlock the power of interactivity and dynamic functionality with our Workshop Series! Learn how to create interactive elements and dynamic content using JavaScript, the programming language used to add interactivity to web pages. Enroll now and start building web pages that are more engaging and interactive for users!
 
 [Coming Soon]()
 
 ### :dart: Web Wizardry Unleashed - Day 4: React
 
+![Copy of Copy of Google Developer Student Clubs  Chapter _ Specific Event Promo - Green-4](https://user-images.githubusercontent.com/65449934/216760234-3c4b15d3-dde5-467b-a9e4-95f5058a229c.png)
 
 On Day 4 of our web wizardry adventure, we will dive deeper into the concept of reactivity in React. You will learn how React's virtual DOM and state management system work together to create reactive web applications. You will learn how to use hooks and functional components to manage state and create dynamic effects. You will also learn how to use the useEffect hook to handle side-effects in your application. By the end of the day, you will understand the reactivity concept and be able to create a small project that demonstrates your newfound skills. Enroll now and start creating complex web applications with ease!
 
