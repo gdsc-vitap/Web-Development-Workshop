@@ -30,7 +30,7 @@ In this first day of our web wizardry adventure, we will dive into the basics of
 
 Take your web development skills to the next level with our Bootcamp! On day 2, learn how to style and layout web pages with CSS, the language used to control the font, color, and spacing of text, and create beautiful layouts. Enroll now and start building professional and polished web pages that will stand out from the crowd!
 
-[Link](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-02/)
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-02/)
 
 ### :dart: Web Wizardry Unleashed - Day 3: JavaScript
 
@@ -38,7 +38,7 @@ Take your web development skills to the next level with our Bootcamp! On day 2, 
 
 Day 3 is all about learning the power of JavaScript. Unlock the power of interactivity and dynamic functionality with our Workshop Series! Learn how to create interactive elements and dynamic content using JavaScript, the programming language used to add interactivity to web pages. Enroll now and start building web pages that are more engaging and interactive for users!
 
-[Coming Soon]()
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-03/)
 
 ### :dart: Web Wizardry Unleashed - Day 4: React
 
