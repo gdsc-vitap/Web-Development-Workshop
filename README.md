@@ -3,7 +3,8 @@
 This 5-day long workshop series is designed to introduce you to the basics of web development, covering everything from the basics of HTML and CSS, to making your first interactive React webpage in just one week. Join us for a hands-on experience that will take your coding skills to the next level. Enroll now and start building your own website from scratch! 
 
 
-Here is the schedule of our Bootcamp:
+## Schedule
+
 | Day | Event Title | Timings | Venue | Description |
 |-----------|-------------|---------|-------|-------------|
 | 1 | Web Wizardry 101 | Jan 23, 3 - 5 PM | G03 + G04 AB1, VIT-AP University | Creating the Perfect HTML Spell 📄 |
@@ -12,9 +13,6 @@ Here is the schedule of our Bootcamp:
 | 4 | React Mastery | Feb 4, 4 - 6 PM | G03 + G04, VIT-AP University | Crafting Reusable Components 🛠 |
 | 5 | Code-ifying for Solutions | Coming Soon | G03 + G04, VIT-AP University | The Final Challenge |
 
-
-
-Don't miss the opportunity to take your skills to the next level and unleash your potential as a web developer!
 
 <hr>
 
@@ -38,9 +36,10 @@ Day 3 is all about learning the power of JavaScript. Unlock the power of interac
 
 ### :dart: Web Wizardry Unleashed - Day 4: React
 
+
 On Day 4 of our web wizardry adventure, we will dive deeper into the concept of reactivity in React. You will learn how React's virtual DOM and state management system work together to create reactive web applications. You will learn how to use hooks and functional components to manage state and create dynamic effects. You will also learn how to use the useEffect hook to handle side-effects in your application. By the end of the day, you will understand the reactivity concept and be able to create a small project that demonstrates your newfound skills. Enroll now and start creating complex web applications with ease!
 
-[Coming Soon]()
+[RSVP](https://gdsc.community.dev/events/details/developer-student-clubs-vellore-institute-of-technology-ap-campus-presents-web-wizardry-unleashed-web-development-workshop-series-ep-04/)
 
 ### :dart: Web Wizardry Unleashed - Day 5: Code-ifying for Solutions - The Final Challenge
 
@@ -112,4 +111,3 @@ Happy Coding! 💻
 -   Q: Do I need to have any specific software or equipment to participate in the Workshops?
     -   A: You will need a computer with internet access. You may also need a text editor, but the instructor will provide instructions on this during the course. :)
 
-Please let me know if you need any further assistance.
