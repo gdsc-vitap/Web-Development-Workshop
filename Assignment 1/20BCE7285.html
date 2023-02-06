@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="assignment/assignment.css">
+        <title>
+        Day 1 Assignment
+    </title>
+    <style>
+        body{
+            background-color: #525fd4;
+        }
+        .main-heading{
+            text-align: center;
+            background-color: #f0f7ff;
+        }
+        .info{
+            display: flex;
+            color: white;
+            font-weight: bolder;
+            font-family: Arial, Helvetica, sans-serif;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+        .info img{            
+            border-radius: 30%;
+            transition: 1s;
+        }
+        .info img:hover{
+            border: 3px solid black;
+            transform: scale(1.03);
+        }
+
+        .form-container{
+            border: 2px solid black;
+            box-shadow: 5px 10px #272626; 
+            margin:auto; 
+            width: 50%;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+    <body>
+        <h1 class="main-heading">GDSC Web Dev Workshop series: Day 1 Assignment</h1>
+        <div class="info">
+            <div>                
+            <ul>
+                <li>Name: VAMSHIDHAR DAWOOR</li>
+                <li>Age: 21</li>
+                <li>Adress : VIT-AP University,Amaravati</li>
+                <li>Hobbies : Watching movies and series</li>
+            </ul>
+            <h3>My Favourite Books and Movies</h3>
+            <ul>
+                <li>Book: 'Two states' by Chetan Bhagat</li>
+                <li>Book: 'The rise of Shivagami' by Anand Neelakantan</li>
+                <li>Movie: Two states</li>
+                <li>Movie: The Dark Knight</li>
+            </ul>
+            </div>
+            <img src="./cat.jpeg">
+        </div>
+        <div class="form-container">
+        <h3 align = "center">GDSC Registration form</h3>
+        <form>
+            <table>
+                <tr>
+                    <td><label>First Name</label></td>
+                    <td><input type = "text"></td>
+                </tr>
+                <tr>
+                    <td><label>Last Name</label></td>
+                    <td> <input type = "text"></td>
+                </tr>
+                <tr>
+                    <td><label>Email</label></td>
+                    <td><input type = "text"></td>
+                </tr>
+                <tr>
+                    <td><label>Phone Number</label></td>
+                    <td><input type = "text"></td>
+                </tr>
+                <tr>
+                    <td><label>Date of Birth</label></td>
+                    <td><input type = "date"></td>
+                </tr>
+                <tr>
+                    <td><label>Gender:</label></td>
+                    <td>
+                        <input type="radio" id="Male" name="gender" value="Gender">
+                        <label for="Male">Male</label>
+                        <input type="radio" id="Female" name="gender" value="Car">
+                        <label for="Female">Female</label>
+                        <input type="radio" id="Other" name="gender" value="Boat">
+                        <label for="Other">Other</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="Select a Country">Country</label></td>
+                    <td>
+                        <select name="country" id = "country">
+                            <option value="">Select a country</option>
+                            <option value="IND">India</option>
+                            <option value="NEP">Nepal</option>
+                            <option value="BAN">Bangladesh</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label for="Course">Choose a course:</label></td>
+                    <td>
+                        <select name="Course" id="Course">
+                            <option value="">Select a course</option>
+                            <option value="B.Tech">B.Tech</option>
+                            <option value="M.Tech">M.Tech</option>
+                            <option value="BCA">BCA</option>
+                            <option value="BBA">BBA</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Program</label></td>
+                    <td>
+                        <datalist>
+                            <option value="SCOPE">
+                            <option value="SENSE">
+                            <option value="VSLI">
+                            <option value="VSB">
+                        </datalist>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Skills:</td>
+                    <td>
+                        <input type="checkbox" id="html">
+                        <label for="html">HTML</label>
+                        <input type="checkbox" id="css">
+                        <label for="css">CSS</label>
+                        <input type="checkbox" id="javascript">
+                        <label for="javascript">Javascript</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td><label>Resume: </label></td>
+                    <td><input type="file"></td>
+                </tr>
+            </table>
+            <p><input type="checkbox"/>I agree to the terms and conditions</p>
+            <p for=""></p>
+            <label for="w3review">Suggestions:</label>
+            <textarea id="Suggestions" name="Suggestions" rows="3" cols="30"></textarea>
+
+            <button>Submit</button>
+            <button>Reset</button>
+            </form>
+            </div>
+    </body>
+</html>
